@@ -1,0 +1,17 @@
+{
+  "textures": {
+    "flat": {
+      "author": "TD Mars conversion"
+    },
+    "mars": {
+      "name": "Mars Copper",
+      "author": "TD Mars conversion"
+    }
+  },
+  "overlays": {
+    "subtle_highlight": {
+      "name": "Subtle Highlight",
+      "author": "TD Mars conversion"
+    }
+  }
+}
